@@ -144,6 +144,12 @@ Feel free to open an Issue or PR if you'd like to:
 > 🧠 Learn by doing.  
 > 📖 Then share it with the world.
 
+📩 Need Help with Data Recovery?
+
+If you’ve got a hard drive that isn’t physically broken but has lost partitions, shows as “unallocated,” or has accidentally deleted files — I can try to help you recover your data using open-source tools and safe methods.
+
+👉 Reach out at: zanyanbuchelvan@gmail.com
+
 ---
 
 ### License
