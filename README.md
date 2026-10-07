@@ -1,6 +1,7 @@
-# Junkyard-pc-to-truenas-
-“How I rebuilt a working PC and TrueNAS server from discarded parts and recovered 200GB of data.”
 # 🛠️ Scrap PC Rebuild: From Junkyard to TrueNAS Server
+
+<p align="center"><img src="photos/first-boot-on-the-bench.jpeg" alt="The rebuilt PC booted to a desktop, running open on the bench" width="760"></p>
+<p align="center"><i>First boot: salvaged board, CPU, RAM and repaired power supply running open on the bench.</i></p>
 
 **A hands-on rebuild of a non-functional PC using e-waste, and turning it into a functioning server.**  
 Built by a first-year CS student, this project documents the step-by-step revival of discarded components — including motherboard, CPU, PSU, RAM, and HDD — and explains the process of recovering lost data, soldering high-voltage parts, flashing BIOS, and setting up a basic home server using Tailscale.
@@ -29,6 +30,9 @@ Built by a first-year CS student, this project documents the step-by-step reviva
 ## 🧠 Build Process (Step-by-Step)
 
 ### 🔧 Step 1: Motherboard Repair
+
+<img src="photos/motherboard-socket.jpeg" alt="The Gigabyte H110M-H motherboard with its CPU socket exposed" width="420">
+
 - Realigned >6 bent CPU socket pins using tweezers
 - Used multimeter for continuity testing
 - Checked for short circuits between lanes
@@ -39,6 +43,9 @@ Built by a first-year CS student, this project documents the step-by-step reviva
 - Mounted fan and heatsink from old board
 
 ### ⚡ Step 3: PSU Repair (High Voltage Safety)
+
+<img src="photos/psu-opened.jpeg" alt="The power supply opened up for the capacitor replacement" width="420">
+
 - Discharged power before handling
 - Desoldered 450V capacitor and replaced with working one
 - Insulated gloves + safety checks throughout
@@ -49,6 +56,9 @@ Built by a first-year CS student, this project documents the step-by-step reviva
 - Flashed fresh BIOS from Gigabyte using @BIOS utility
 
 ### 🧰 Step 5: System Assembly
+
+<img src="photos/assembled-in-the-case.jpeg" alt="The parts fitted into the salvaged case, with the Gigabyte splash screen on the monitor" width="760">
+
 - Connected front panel headers (F-panel, USB, audio)
 - Managed SATA, power, and internal cables for airflow
 - Added external USB hub to replace broken USB ports
