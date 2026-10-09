@@ -1,0 +1,5 @@
+# Settings for the GitHub Pages site: https://zanyanbu.github.io/junkyard-pc-to-truenas/
+title: Junkyard PC to TrueNAS Server
+description: Rebuilding a dead PC from e-waste, recovering 200 GB from a wiped disk, and turning it into a home server
+theme: jekyll-theme-cayman
+show_downloads: false
